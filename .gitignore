@@ -1,0 +1,5 @@
+binfmt_elf.o
+coredump.o
+dbfiller
+log
+*.swp
